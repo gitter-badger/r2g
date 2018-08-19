@@ -1,4 +1,7 @@
 
+[<img src="https://img.shields.io/badge/slack-@oresoftware/r2g-yellowgreen.svg?logo=slack">](https://oresoftware.slack.com/messages/CCAHLN77B)
+
+
 # r2g  <sup> properly test your NPM packages before publishing. </sup>
 
 >
